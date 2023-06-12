@@ -12,4 +12,4 @@ Me encanta programar en lenguajes puramente funcionales aunque no tengo problema
 Algunas estadísticas de lo que tengo en este vertedero llamado repositorio...
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcOSDX&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcOSDX&theme=radical&show_icons=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
